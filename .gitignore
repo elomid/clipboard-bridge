@@ -1,0 +1,5 @@
+clipboard-bridge
+build/
+*.o
+.DS_Store
+.env
