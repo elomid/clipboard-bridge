@@ -22,6 +22,8 @@ curl -fsSL https://github.com/elomid/clipboard-bridge/releases/latest/download/i
 
 Starts automatically on login.
 
+> **Important:** On macOS, paste images into Claude Code with **Ctrl+V** (not Cmd+V). This is a Claude Code thing, not a clipboard-bridge thing — but it trips up almost everyone.
+
 ## Uninstall
 
 ```bash
