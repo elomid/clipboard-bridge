@@ -1,6 +1,6 @@
 # clipboard-bridge
 
-A tiny macOS daemon that fixes clipboard image pasting in [Claude Code](https://claude.ai/code).
+A tiny macOS daemon that fixes clipboard image pasting in [Claude Code](https://github.com/anthropics/claude-code).
 
 ## The problem
 
